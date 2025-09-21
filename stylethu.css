@@ -1,0 +1,35 @@
+:root {
+    --color: rgb(136, 72, 32)
+}
+
+.HomePage{
+    border: 3px solid black;
+    width: 53%;
+    padding-bottom: 25px;
+}
+
+.Content{
+    border-top: 1px solid var(--color);
+    border-bottom: 1px solid var(--color);
+}
+
+.Box{
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.colored {
+    color: var(--color);
+}
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+a.slide {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.Content p { margin: 0; }
+.Content p + p { margin-top: 10px; }
