@@ -29,11 +29,6 @@
     color: var(--color);
 }
 
-img {
-    overflow-clip-margin: content-box;
-    overflow: clip;
-}
-
 a.navigation  {
     color: #FFFFFF;
 }
