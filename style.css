@@ -16,8 +16,8 @@
 .Box{
     margin-left: 5px;
     margin-right: 5px;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 .Button {
     margin-left: 5px;
@@ -35,9 +35,8 @@ img {
     overflow: clip;
 }
 
-a.slide {
+a.navigation  {
     color: #FFFFFF;
-    text-decoration: none;
 }
 
 .Content p { margin: 0; }
